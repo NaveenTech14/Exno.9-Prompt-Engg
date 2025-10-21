@@ -1,4 +1,4 @@
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/5e1c45ad-58d4-45c3-881d-a8a1a7897926" /># Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
+Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
 
 # Date: 21/10/2025
 # Register no.: 25014622
